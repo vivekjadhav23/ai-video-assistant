@@ -1,0 +1,11 @@
+.env
+.venv/
+downloades/
+vector_db/
+__pycache__/
+*.wav
+*.mp3
+*.mp4
+*.tmp
+.agents/
+.gemini/
